@@ -1,0 +1,48 @@
+[{
+  "testedPositive": "2470",
+  "testedNegative": "26991",
+  "testedPending": "8213",
+  "testedTotal": "35516",
+  "recovered": "320",
+  "inICU": "73",
+  "deceased": "27",
+  "sourceUrl": "http://www.moh.gov.my/index.php/pages/view/2019-ncov-wuhan",
+  "lastUpdatedAtApify": "2020-03-29T11:25:00.000Z",
+  "readMe": "https://github.com/zpelechova/covid-my/blob/master/README.md"
+},
+{
+  "testedPositive": "2470",
+  "testedNegative": "26991",
+  "testedPending": "8213",
+  "testedTotal": "37674",
+  "recovered": "388",
+  "inICU": "73",
+  "deceased": "34",
+  "sourceUrl": "http://www.moh.gov.my/index.php/pages/view/2019-ncov-wuhan",
+  "lastUpdatedAtApify": "2020-03-29T11:30:00.000Z",
+  "readMe": "https://github.com/zpelechova/covid-my/blob/master/README.md"
+},
+{
+  "testedPositive": "2626",
+  "testedNegative": "28580",
+  "testedPending": "8457",
+  "testedTotal": "39663",
+  "recovered": "479",
+  "inICU": "94",
+  "deceased": "37",
+  "sourceUrl": "http://www.moh.gov.my/index.php/pages/view/2019-ncov-wuhan",
+  "lastUpdatedAtApify": "2020-03-30T10:00:00.000Z",
+  "readMe": "https://github.com/zpelechova/covid-my/blob/master/README.md"
+},
+{
+  "testedPositive": "2766",
+  "testedNegative": "29498",
+  "testedPending": "8219",
+  "testedTotal": "40483",
+  "recovered": "537",
+  "inICU": "94",
+  "deceased": "43",
+  "sourceUrl": "http://www.moh.gov.my/index.php/pages/view/2019-ncov-wuhan",
+  "lastUpdatedAtApify": "2020-03-31T10:45:00.000Z",
+  "readMe": "https://github.com/zpelechova/covid-my/blob/master/README.md"
+}]
